@@ -6959,10 +6959,10 @@ react-is@^16.13.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-tagsinput@^3.19.0:
-  version "3.20.0"
-  resolved "https://registry.yarnpkg.com/react-tagsinput/-/react-tagsinput-3.20.0.tgz#2aa802ee95ba13efa2ea1e04f638f4e5013f0334"
-  integrity sha512-znuxyJAXj0rd3wIabBK5+WN5RHBk9EkS25DrojBdHjT+0p/6SFvOScdugHcwzksdNGnu7Oo7+oVw+LiHMkUXJg==
+react-tagsinput@^3.20.1:
+  version "3.20.1"
+  resolved "https://registry.yarnpkg.com/react-tagsinput/-/react-tagsinput-3.20.1.tgz#81bf08b6a885e74d3f3af0aed329e02581355c7d"
+  integrity sha512-JAaquVYooCTRBAofqfE3tFlDCV3HMmIWtMCTGCUJege3trA4wcvYHy8WKnyLg21XagwUkMsck2l95znsdmfQ8Q==
 
 react@^16.9.0:
   version "16.14.0"
