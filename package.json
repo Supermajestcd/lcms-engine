@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "@babel/core": "^7.6.0",
+    "@babel/core": "^7.22.6",
     "@babel/preset-react": "^7.0.0",
     "@rails/webpacker": "~5.4.3",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
